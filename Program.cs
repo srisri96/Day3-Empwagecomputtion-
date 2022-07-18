@@ -1,4 +1,3 @@
-﻿using LineComparisoj;
-Console.WriteLine("Welcome to line comparision program");
-Lengthchk line = new Lengthchk();
-line.Comparison();
+﻿using Linecomparison2;
+Linecomp2 linecomp = new Linecomp2();
+linecomp.length();
